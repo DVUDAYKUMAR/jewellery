@@ -1,0 +1,28 @@
+
+body{
+    width: auto;
+    height: auto;
+    background-color: aliceblue; 
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    column-gap: 2rem;
+   
+}
+
+h3,h1{
+
+    letter-spacing: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+}
+h3{
+    opacity: 0.5;
+}
+

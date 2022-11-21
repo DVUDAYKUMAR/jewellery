@@ -1,0 +1,23 @@
+.scrolling{
+    width: 100%;
+    height: 500px; 
+    position: relative;
+}
+.imgpiece{
+    width: 100%;
+    height: 500px;
+}
+.imgpiece1{
+    width: 100%;
+    height: 500px;
+   
+}
+.qwery{
+    position: absolute;
+    color: black;
+    z-index: 3;
+    height: 300px;
+    width: 300px;
+    top: 50px;
+    left: 160px;
+}
